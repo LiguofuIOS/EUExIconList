@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<uexplugins>
+    <plugin name="uexIconList">
+        <method name="open"></method>
+        <method name="close"></method>
+        <method name="refreshIconList"></method>
+        <method name="getCurrentIconList"></method>
+        <method name="delIconItem"></method>
+        <method name="setOption"></method>
+        <method name="addIconItem"></method>
+        <method name="resetFrame"></method>
+    </plugin>
+</uexplugins>

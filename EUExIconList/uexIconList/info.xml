@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<uexplugins>
+    <plugin
+        uexName="uexIconList" version="3.0.13" build="13">
+        <info>13:增加uexIconList.cbDelIconItemCompleted方法</info>
+        <build>12:去掉不可删除icon的长按事件</build>
+        <build>11:修改标题字体大小</build>
+        <build>10:修改icon大小,解决图片变扁的问题</build>
+        <build>9:修改icon大小,删除按钮位置</build>
+        <build>8:去掉退出编辑状态的手势</build>
+        <build>7:增加带有参数的refreshIconList()接口</build>
+        <build>6:实现跨页拖动</build>
+        <build>5:增加resetFrame()方法和支持长按后抖动,进入编辑状态禁用点击事件</build>
+        <build>4:增加setOption()和addIconItem()方法</build>
+        <build>3:增加delIconItem()和getCurrentIconList()</build>
+        <build>2:增加拖拽方法</build>
+        <build>1:新增长按显示删除按钮,以及增加refreshIconList接口</build>
+        <build>0:uexIconList插件</build>
+    </plugin>
+</uexplugins>
